@@ -48,6 +48,11 @@ This project was inspired by my own dream of owning a home. I wanted to create a
 ## Design
 The website is designed to be user-friendly and easy to navigate. The home design page is interactive, allowing users to drag and drop different elements to create their dream home.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=pratikpakhale" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=pratikpakhale" height="150" alt="languages graph"  />
+</div>
+
 ## Technology
 The website is built using React.js, Node.js, and SQL. React.js is a JavaScript library that is used to create user interfaces. Node.js is a JavaScript runtime environment that is used to create web servers. SQL is a database language that is used to store and retrieve data.
 
